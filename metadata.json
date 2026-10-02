@@ -1,0 +1,8 @@
+{
+  "name": "MyBus - Smart College Bus Tracking & Fleet Management",
+  "description": "Production-grade smart college bus tracking and transportation management system with real-time GPS tracking, proximity alerts, and role-based portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
